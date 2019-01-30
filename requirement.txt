@@ -1,0 +1,5 @@
+pip install textblob
+
+pip install pickle
+
+pip install PyQt5
